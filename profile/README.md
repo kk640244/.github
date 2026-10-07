@@ -10,6 +10,8 @@ Layer7-Community has moved to the Broadcom GitHub organization. You may find the
 - **Assertions**: [https://github.com/Broadcom/Layer7-Assertions](https://github.com/Broadcom/Layer7-Assertions)
 - **Mobile**: [https://github.com/Broadcom/Layer7-Mobile](https://github.com/Broadcom/Layer7-Mobile)
 - **Demos**: [https://github.com/Broadcom/Layer7-Demos](https://github.com/Broadcom/Layer7-Demos)
+- **Layer7 Operator**: [https://github.com/Broadcom/layer7-operator](https://github.com/Broadcom/layer7-operator)
+- **APIM Charts**: [https://github.com/Broadcom/apim-charts](https://github.com/Broadcom/apim-charts)
 
 
 **NOTE: Any direct links to the Layer7-Community repos will automatically redirect to the new location.**
